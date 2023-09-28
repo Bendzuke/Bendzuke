@@ -5,8 +5,6 @@
 - 💬 Ask me about the weather.
 - 🇸🇯
 
-
-  ![Visitor Count](https://profile-counter.glitch.me/{BigBenxoxo}/count.svg)
 <!--
 **BigBenxoxo/BigBenxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/{BigBenxoxo}/count.svg)
 --> 🥰
+
+
+![Visitor Count](https://profile-counter.glitch.me/{BigBenxoxo}/count.svg)
 
 
 
