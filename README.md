@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about the weather.
 - 🇸🇯
 --> 🥰
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
