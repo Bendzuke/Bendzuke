@@ -1,6 +1,6 @@
 ### Greetings 👋 🤓
 
-- 🔭 I’m currently studying Full stack development at Business College Helsinki
+- 🔭 I’m currently studying Full stack web development at Business College Helsinki
 - 🌱 I’m currently learning React, Typescript and Node
 - 💬 Feel free to reach out.
 - 🇸🇯
