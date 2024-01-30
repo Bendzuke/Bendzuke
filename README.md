@@ -1,8 +1,8 @@
 ### Greetings 👋 🤓
 
-- 🔭 I’m currently working on everything.
-- 🌱 I’m currently learning Javascript.
-- 💬 Ask me about the weather.
+- 🔭 I’m currently studying Full stack development at Business College Helsinki
+- 🌱 I’m currently learning React, Typescript and Node
+- 💬 Feel free to reach out.
 - 🇸🇯
 
 <!--
