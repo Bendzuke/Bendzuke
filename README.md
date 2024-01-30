@@ -2,7 +2,7 @@
 
 - 🔭 I’m studying Full stack web development at Business College Helsinki
 - 🌱 I’m currently learning React, Typescript and Node
-- 💬 Feel free to reach out.
+- 💬 Feel free to reach out
 - 🇸🇯
 
 <!--
