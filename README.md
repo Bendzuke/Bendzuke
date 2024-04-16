@@ -1,9 +1,10 @@
 ### Greetings 👋 🤓
 
+- 🇸🇯
 - 🔭 I’m studying Full stack web development at Business College Helsinki
 - 🌱 As i'm nearing the end of my studies, i am currently looking for an internship in order to continue my development!
 - 💬 Feel free to reach out
-- 🇸🇯
+
   
 
 <!--
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{BigBenxoxo}/count.svg)
 --> 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bendik-pettersen/)
+
 🥰
 
 
