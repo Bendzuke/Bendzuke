@@ -2,7 +2,7 @@
 
 - 🇸🇯
 - 🔭 I’m studying Full stack web development at Business College Helsinki
-- 🌱 As i'm nearing the end of my studies, i am currently looking for an internship in order to continue my development!
+- 🌱 As i'm nearing the end of my studies, I am currently looking for an internship in order to continue my development!
 - 💬 Feel free to reach out
 
   
